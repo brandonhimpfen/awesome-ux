@@ -1,4 +1,4 @@
-# Awesome UX [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome UX [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/awesomelistsio) &nbsp; 
 [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/awesomelists) &nbsp; 
@@ -90,8 +90,8 @@ User Experience (UX) focuses on creating meaningful, usable, and delightful inte
 
 ## Related Awesome Lists
 
-- **[Awesome Design](https://github.com/awesomelistsio/awesome-design)** – A broader design-focused list.
-- **[Awesome Figma](https://github.com/awesomelistsio/awesome-figma)** – Plugins, resources, and tips for Figma users.
+- **[Awesome Design](https://github.com/brandonhimpfen/awesome-design)** – A broader design-focused list.
+- **[Awesome Figma](https://github.com/brandonhimpfen/awesome-figma)** – Plugins, resources, and tips for Figma users.
   
 ## Contribute
 
