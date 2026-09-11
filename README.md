@@ -67,6 +67,7 @@ User Experience (UX) focuses on creating meaningful, usable, and delightful inte
 
 ## Courses & Learning
 
+- [aiux.courses](https://aiux.courses) – Independently curated AI UX sources and courses for working designers (patterns, papers, people, paid paths).
 - [Interaction Design Foundation](https://www.interaction-design.org/) – UX courses and certificates.
 - [Coursera UX Courses](https://www.coursera.org/browse/information-technology/user-experience) – University-led training on UX.
 - [Google UX Design Certificate](https://grow.google/certificates/ux-design/) – Beginner-friendly training from Google.
